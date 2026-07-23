@@ -66,6 +66,5 @@ python resume.py
 - Multiple LLM providers
 - Resume ranking
 
-## License
 
-MIT License
+
